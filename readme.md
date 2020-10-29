@@ -15,3 +15,4 @@ A instrução para instalação do pygame pode ser encontrada no seguinte link:
 
 # Para jogar
 
+Utilizar o comando `python3 jogo.py` dentro da pasta jogo-corrida-simplificado
